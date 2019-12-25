@@ -31,46 +31,46 @@
 | 14 | [Longest Comman Prefix](DataStructure/Trie/LeetCode-14.Longest%20Common%20Prefix.md) | 分治、二分、Trie | Easy |
 | 15 | [3Sum](TwoPointer/LeetCode-15.3Sum.md) | 双指针 | Medium |
 | 16 | [3Sum Closest](TwoPointer/LeetCode-16.3Sum%20Closest.md) | 双指针 | Medium |
-| 17 | [Letter Combination of a Phone Number](Search/LeetCode-17.Letter Combinations%20of%20a%20Phone%20Number.md) | Search | Medium |
+| 17 | [Letter Combination of a Phone Number](Search/LeetCode-17.Letter%20Combinations%20of%20a%20Phone%20Number.md) | Search | Medium |
 | 18 | [4Sum](TwoPointer/LeetCode-18.4Sum.md) | 双指针 | Medium |
 | 19 | [Remove Nth Node From End of List](DataStructure/List/LeetCode-19.Remove%20Nth%20Node%20From%20End%20of%20List.md) | 快慢指针 | Medium |
 | 20 | [Valid Parentheses](DataStructure/Stack/LeetCode-20.Valid%20Parentheses.md) | Stack | Easy |
 | 21 | [Merge Two Sorted Lists](DataStructure/List/LeetCode-21.Merge%20Two%20Sorted%20Lists.md) | List | Easy |
-| 22 | [Generate Parentheses](https://github.com/ZXZxin/ZXBlog/blob/master/%E5%88%B7%E9%A2%98/LeetCode/Search/LeetCode%20-%2022.%20Generate%20Parentheses(%E9%80%92%E5%BD%92).md) | Search | Medium |
-| 23 | [Merge K Sorted Lists](https://github.com/ZXZxin/ZXBlog/blob/master/%E5%88%B7%E9%A2%98/LeetCode/Data%20Structure/List/LeetCode%20-%2023.%20Merge%20k%20Sorted%20Lists.md) | List | Hard |
-| 24 | [Swap Nodes in Pairs](https://github.com/ZXZxin/ZXBlog/blob/master/%E5%88%B7%E9%A2%98/LeetCode/Data%20Structure/List/LeetCode%20-%2024.%20Swap%20Nodes%20in%20Pairs.md) | List | Medium |
-| 25 | [Reverse Nodes in K-Group](https://github.com/ZXZxin/ZXBlog/blob/master/%E5%88%B7%E9%A2%98/LeetCode/Data%20Structure/List/LeetCode%20-%2025.%20Reverse%20Nodes%20in%20K-Group.md) | List | Hard |
-| 26 | [Remove Duplicates from Sorted Array](https://github.com/ZXZxin/ZXBlog/blob/master/%E5%88%B7%E9%A2%98/LeetCode/Two%20Pointer/LeetCode%20-%2026.%20Remove%20Duplicates%20from%20Sorted%20Array.md) | Two Pointer | Easy |
-| 27 | [Remove Element](https://github.com/ZXZxin/ZXBlog/blob/master/%E5%88%B7%E9%A2%98/LeetCode/Two%20Pointer/LeetCode%20-%2027.%20Remove%20Element.md) | Two Pointer | Easy |
-| 28 | [Implement strStr()](https://github.com/ZXZxin/ZXBlog/blob/master/%E5%88%B7%E9%A2%98/LeetCode/String/KMP/LeetCode%20-%2028.%20Implement%20strStr().md) | String、KMP | Easy |
-| 29 | [Divide Two Integers](https://github.com/ZXZxin/ZXBlog/blob/master/%E5%88%B7%E9%A2%98/LeetCode/Bit/LeetCode%20-%2029.%20Divide%20Two%20Integers.md) | Bit | Medium |
-| 30 | [Substring with Concatenation of All Words](https://github.com/ZXZxin/ZXBlog/blob/master/%E5%88%B7%E9%A2%98/LeetCode/Data%20Structure/Map/LeetCode%20-%2030.%20Substring%20with%20Concatenation%20of%20All%20Words.md) | Map | Hard |
-| 31 | [Next Permutation](https://github.com/ZXZxin/ZXBlog/blob/master/%E5%88%B7%E9%A2%98/LeetCode/Simulation/median/LeetCode%20-%2031.%20Next%20Permutation(%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%8E%92%E5%88%97).md) | 模拟 | Medium |
+| 22 | [Generate Parentheses](Search/LeetCode-22.Generate%20Parentheses.md) | Search | Medium |
+| 23 | [Merge K Sorted Lists](DataStructure/List/LeetCode-23.Merge%20k%20Sorted%20Lists.md) | List | Hard |
+| 24 | [Swap Nodes in Pairs](DataStructure/List/LeetCode-24.Swap%20Nodes%20in%20Pairs.md) | List | Medium |
+| 25 | [Reverse Nodes in K-Group](DataStructure/List/LeetCode-25.Reverse%20Nodes%20in%20K-Group.md) | List | Hard |
+| 26 | [Remove Duplicates from Sorted Array](TwoPointer/LeetCode-26.Remove%20Duplicates%20from%20Sorted%20Array.md) | Two Pointer | Easy |
+| 27 | [Remove Element](TwoPointer/LeetCode-27.Remove%20Element.md) | Two Pointer | Easy |
+| 28 | [Implement strStr()](String/KMP/LeetCode-28.Implement%20strStr().md) | String、KMP | Easy |
+| 29 | [Divide Two Integers](Bit/LeetCode-29.Divide%20Two%20Integers.md) | Bit | Medium |
+| 30 | [Substring with Concatenation of All Words](DataStructure/Map/LeetCode-30.Substring%20with%20Concatenation%20of%20All%20Words.md) | Map | Hard |
+| 31 | [Next Permutation](Simulation/median/LeetCode-31.Next%20Permutation.md) | 模拟 | Medium |
 | 32 |                                                              |      |      |
 | 33 |                                                              |      |      |
-| 34 | [Find First and Last Position of Element in Sorted Array](https://github.com/ZXZxin/ZXBlog/blob/master/%E5%88%B7%E9%A2%98/LeetCode/BinarySearch/LeetCode%20-%2034.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md) | 二分 | Medium |
+| 34 | [Find First and Last Position of Element in Sorted Array](BinarySearch/LeetCode-34.Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md) | 二分 | Medium |
 | 35 |                                                              |      |      |
 | 36 |                                                              |      |      |
-| 37 | [Sudoku Solver](https://github.com/ZXZxin/ZXBlog/blob/master/%E5%88%B7%E9%A2%98/LeetCode/Search/LeetCode%20-%2037.%20Sudoku%20Solver%20(DFS%E3%80%81%E5%9B%9E%E6%BA%AF).md) | Search | Hard |
+| 37 | [Sudoku Solver](Search/LeetCode-37.Sudoku%20Solver.md) | Search | Hard |
 | 38 |                                                              |      |      |
-| 39 | [Combination Sum](https://github.com/ZXZxin/ZXBlog/blob/master/%E5%88%B7%E9%A2%98/LeetCode/Search/LeetCode%20-%2039.%20Combination%20Sum%20(%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C%20_%20dfs).md) | Search | Medium |
-| 40 | [Combination Sum II](https://github.com/ZXZxin/ZXBlog/blob/master/%E5%88%B7%E9%A2%98/LeetCode/Search/LeetCode%20-%2040.%20Combination%20Sum%20II%20%26%26%20LeetCode%20-%20216.%20Combination%20Sum%20III%20%20(DFS).md) | Search | Medium |
+| 39 | [Combination Sum](Search/LeetCode-39.Combination%20Sum.md) | Search | Medium |
+| 40 | [Combination Sum II](Search/LeetCode-40.Combination%20Sum%20II%20&&%20LeetCode%20-%20216.%20Combination%20Sum%20III.md) | Search | Medium |
 | 41 |                                                              |      |      |
 | 42 |                                                              |      |      |
 | 43 |                                                              |      |      |
 | 44 |                                                              |      |      |
 | 45 |                                                              |      |      |
-| 46 | [Permutations](https://github.com/ZXZxin/ZXBlog/blob/master/%E5%88%B7%E9%A2%98/LeetCode/Search/LeetCode%20-%2046.%20Permutations(%E4%B8%89%E7%A7%8D%E6%96%B9%E6%B3%95).md) | Search | Medium |
-| 47 | [Permuations II](https://github.com/ZXZxin/ZXBlog/blob/master/%E5%88%B7%E9%A2%98/LeetCode/Search/LeetCode%20-%2047.%20Permutations%20II(%E4%B8%8D%E9%87%8D%E5%A4%8D%E5%85%A8%E6%8E%92%E5%88%97)(%E5%9B%9B%E7%A7%8D%E6%96%B9%E5%BC%8F%E5%AE%9E%E7%8E%B0).md) | Search | Medium |
-| 48 |                                                              |      |      |
+| 46 | [Permutations](Search/LeetCode-46.Permutations.md) | Search | Medium |
+| 47 | [Permuations II](Search/LeetCode-47.Permutations%20II.md) | Search | Medium |
+| 48 | [Rotate Image](Simulation/median/LeetCode-48.Rotate%20Image.md) | 模拟 | Medium |
 | 49 |                                                              |      |      |
-| 50 | [Pow(x, n)](https://github.com/ZXZxin/ZXBlog/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%AE%97%E6%B3%95/Math/%E4%B9%98%E6%B3%95%E5%BF%AB%E9%80%9F%E5%B9%82%E7%9B%B8%E5%85%B3%E6%80%BB%E7%BB%93%20%20%26%20LeetCode%20-%2050.%20Pow(x%2C%20n).md) | Math | Medium |
-| 51 | [N-Queens](https://github.com/ZXZxin/ZXBlog/blob/master/%E5%88%B7%E9%A2%98/LeetCode/Search/LeetCode%20-%2051.%20N-Queens(N%E7%9A%87%E5%90%8E%E9%97%AE%E9%A2%98).md) | Search | Hard |
-| 52 | [N-Queens II](https://github.com/ZXZxin/ZXBlog/blob/master/%E5%88%B7%E9%A2%98/LeetCode/Search/LeetCode%20-%2052.%20N-Queens%20II.md) | Search | Hard |
-| 53 | [Maximum Subarray](https://github.com/ZXZxin/ZXBlog/blob/master/%E5%88%B7%E9%A2%98/LeetCode/DP/LeetCode%20-%2053.%20Maximum%20Subarray(%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C)(%E4%B8%80%E7%BB%B4dp).md) | DP | Easy |
-| 54 | [Spiral Matrix](https://github.com/ZXZxin/ZXBlog/blob/master/%E5%88%B7%E9%A2%98/LeetCode/Simulation/median/LeetCode%20-%2054.%20Spiral%20Matrix(%E5%9C%88%E5%9C%88%E6%89%93%E5%8D%B0%E7%9F%A9%E9%98%B5).md) | 模拟 | Medium |
+| 50 | [Pow(x, n)](../DataStructure/Math/乘法快速幂相关总结%20&%20LeetCode%20-%2050.%20Pow.md) | Math | Medium |
+| 51 | [N-Queens](Search/LeetCode-51.N-Queens.md) | Search | Hard |
+| 52 | [N-Queens II](Search/LeetCode-52.N-Queens%20II.md) | Search | Hard |
+| 53 | [Maximum Subarray](DP/LeetCode-53.Maximum%20Subarray.md) | DP | Easy |
+| 54 | [Spiral Matrix](Simulation/median/LeetCode-54.Spiral%20Matrix.md) | 模拟 | Medium |
 | 55 |                                                              |      |      |
-| 56 | [Merge Intervals](https://github.com/ZXZxin/ZXBlog/blob/master/%E5%88%B7%E9%A2%98/LeetCode/Greedy/LeetCode%20-%2056.%20Merge%20Intervals.md) | 贪心 | Medium |
+| 56 | [Merge Intervals](Greedy/LeetCode-56.Merge%20Intervals.md) | 贪心 | Medium |
 | 57 | [Insert Interval](https://github.com/ZXZxin/ZXBlog/blob/master/%E5%88%B7%E9%A2%98/LeetCode/Greedy/LeetCode%20-%2057.%20Insert%20Interval%20.md) | 贪心 | Hard |
 | 58 |                                                              |      |      |
 | 59 |                                                              |      |      |
